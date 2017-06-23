@@ -1,2 +1,1 @@
-# GameVoice_Android
-安卓游戏中播放背景音乐的Demo
+安卓游戏中播放背景音乐的Demo用的是SoundPool 播放7以内的以内的音乐 如果大约7S就用 MediaPlayer
