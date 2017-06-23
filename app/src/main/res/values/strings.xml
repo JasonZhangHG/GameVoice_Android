@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameVoice</string>
+    <string name="start_voice">播放即时音效</string>
+    <string name="stop_voice">停止播放即时音效</string>
+</resources>
